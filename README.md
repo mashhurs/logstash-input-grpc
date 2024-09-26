@@ -1,5 +1,7 @@
 # Logstash Plugin
 
+DO NOT USE, non-tested under development plugin.
+
 [![Travis Build Status](https://travis-ci.com/logstash-plugins/logstash-input-http.svg)](https://travis-ci.com/logstash-plugins/logstash-input-http)
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
